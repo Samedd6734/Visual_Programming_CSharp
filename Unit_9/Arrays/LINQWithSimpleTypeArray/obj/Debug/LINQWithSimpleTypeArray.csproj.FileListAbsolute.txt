@@ -1,0 +1,7 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\bin\Debug\LINQWithSimpleTypeArray.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch09\Fig09_02\LINQWithSimpleTypeArray\LINQWithSimpleTypeArray\obj\Debug\LINQWithSimpleTypeArray.pdb

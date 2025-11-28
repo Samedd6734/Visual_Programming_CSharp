@@ -1,0 +1,7 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch10\fig10_01-02\Time1\Time1\bin\Debug\Time1.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch10\fig10_01-02\Time1\Time1\bin\Debug\Time1.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch10\fig10_01-02\Time1\Time1\bin\Debug\Time1.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch10\fig10_01-02\Time1\Time1\obj\Debug\Time1.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch10\fig10_01-02\Time1\Time1\obj\Debug\Time1.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch10\fig10_01-02\Time1\Time1\obj\Debug\Time1.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch10\fig10_01-02\Time1\Time1\obj\Debug\Time1.pdb

@@ -1,0 +1,7 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch08\fig08_03\InitArray\InitArray\bin\Debug\InitArray.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch08\fig08_03\InitArray\InitArray\bin\Debug\InitArray.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch08\fig08_03\InitArray\InitArray\bin\Debug\InitArray.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch08\fig08_03\InitArray\InitArray\obj\Debug\InitArray.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch08\fig08_03\InitArray\InitArray\obj\Debug\InitArray.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch08\fig08_03\InitArray\InitArray\obj\Debug\InitArray.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch08\fig08_03\InitArray\InitArray\obj\Debug\InitArray.pdb
