@@ -1,0 +1,16 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\bin\Debug\Account1.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\bin\Debug\Account1.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\bin\Debug\Account1.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\obj\Debug\Account1.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\obj\Debug\Account1.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\obj\Debug\Account1.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\obj\Debug\Account1.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch04\Account1\Account1\obj\Debug\Account1.exe.config
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\bin\Debug\Account1.exe.config
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\bin\Debug\Account1.exe
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\bin\Debug\Account1.pdb
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\obj\Debug\Account1.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\obj\Debug\Account1.exe.config
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\obj\Debug\Account1.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\obj\Debug\Account1.exe
+C:\Users\Samedd\Desktop\C#\Unit_4\Hesap\Account1\obj\Debug\Account1.pdb

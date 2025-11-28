@@ -1,0 +1,7 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch03\fig03_22\Comparison\Comparison\bin\Debug\Comparison.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch03\fig03_22\Comparison\Comparison\bin\Debug\Comparison.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch03\fig03_22\Comparison\Comparison\bin\Debug\Comparison.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch03\fig03_22\Comparison\Comparison\obj\Debug\Comparison.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch03\fig03_22\Comparison\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch03\fig03_22\Comparison\Comparison\obj\Debug\Comparison.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch03\fig03_22\Comparison\Comparison\obj\Debug\Comparison.pdb

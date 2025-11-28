@@ -1,0 +1,10 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\bin\Debug\ASimpleApp.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Form1.resources
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.Properties.Resources.resources
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.GenerateResource.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch02\ASimpleApp\ASimpleApp\obj\Debug\ASimpleApp.pdb
