@@ -1,0 +1,7 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch06\ex06_10\Printing\Printing\bin\Debug\Printing.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch06\ex06_10\Printing\Printing\bin\Debug\Printing.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch06\ex06_10\Printing\Printing\bin\Debug\Printing.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch06\ex06_10\Printing\Printing\obj\Debug\Printing.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch06\ex06_10\Printing\Printing\obj\Debug\Printing.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch06\ex06_10\Printing\Printing\obj\Debug\Printing.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch06\ex06_10\Printing\Printing\obj\Debug\Printing.pdb

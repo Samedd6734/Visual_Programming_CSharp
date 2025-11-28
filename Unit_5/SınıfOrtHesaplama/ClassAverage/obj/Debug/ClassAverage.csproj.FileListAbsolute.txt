@@ -1,0 +1,7 @@
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch05\fig05_11\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe.config
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch05\fig05_11\ClassAverage\ClassAverage\bin\Debug\ClassAverage.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch05\fig05_11\ClassAverage\ClassAverage\bin\Debug\ClassAverage.pdb
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch05\fig05_11\ClassAverage\ClassAverage\obj\Debug\ClassAverage.csproj.AssemblyReference.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch05\fig05_11\ClassAverage\ClassAverage\obj\Debug\ClassAverage.csproj.CoreCompileInputs.cache
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch05\fig05_11\ClassAverage\ClassAverage\obj\Debug\ClassAverage.exe
+C:\Users\Samedd\Desktop\Projects\VCSharpHTP6-master\examples\ch05\fig05_11\ClassAverage\ClassAverage\obj\Debug\ClassAverage.pdb
